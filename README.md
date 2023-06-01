@@ -37,7 +37,7 @@ with open(fname,'r') as f:
 print('Number of words:',num_words)
 ```
 ### OUTPUT:
-![Screenshot (93)](https://github.com/chandrumathiyazhagan/Word-count/assets/119393023/e81ded70-f064-462c-8d93-15756ab05190)
+![WhatsApp Image 2023-06-01 at 09 20 01](https://github.com/chandrumathiyazhagan/Word-count/assets/119393023/00f45105-cb9e-4b3d-8e8e-a5cb324657e4)
 
 
 
